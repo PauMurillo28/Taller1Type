@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=B612');
+
+#series tbody td {
+    background-color: #f2f3f3;
+    
+}
+
+.header {
+    display: flex; 
+    align-items: center; 
+    background-color: lightseagreen; 
+    padding: 8px; 
+    border-radius: 0; 
+    margin-bottom: 2rem;
+    
+}
+
+.table {
+    width: auto; 
+    max-width: 80%; 
+    margin-left: 80px;
+    border-top: 1px solid #dee2e6;
+}
+
+.card{
+    margin-left: 0; 
+    margin-bottom: 0; 
+}
+
+.name-column {
+    min-width: 300px; 
+    white-space: nowrap; 
+  }
+
+.seasons-column{
+    min-width: 90px; 
+}
+
+
+.card-website{
+    color:  rgb(36, 129, 211);
+}
